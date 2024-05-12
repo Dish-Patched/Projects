@@ -1,3 +1,5 @@
+# TicTacC
+
 A simple TicTacToe game made in C
 
 Initial Screen:

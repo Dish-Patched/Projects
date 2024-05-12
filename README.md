@@ -1,1 +1,1 @@
-A simple TicTacToe game made in python
+A simple TicTacToe game made in C
